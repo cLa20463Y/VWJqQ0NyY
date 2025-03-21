@@ -1,0 +1,20 @@
+.kpt-pipeline/
+examples/
+templates/
+skaffold.yaml
+README.md
+.git/
+node_modules/
+.drone.yml
+.github/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.kpt-pipeline
