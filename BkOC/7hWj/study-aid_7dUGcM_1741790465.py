@@ -71,7 +71,6 @@ def embed_youtube(url):
 def get_chats(question, url):
     video_id = re.findall(r"v=([^&]+)", url)[0]
 
-    global docs
     answer, _ = processor.get_answer(video_id, question, docs)
 
     return answer
