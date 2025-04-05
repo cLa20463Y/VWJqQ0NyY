@@ -323,7 +323,6 @@ Although Windows and OS X are easy to use and convenient, they both are far from
 **Manage Permissions** | Essential | Control which apps have access to your location, camera, microphone, contacts, and other sensitive information.
 **Disallow Usage Data from being sent to the Cloud** | Essential | Limit the amount of usage information or feedback sent to the cloud to protect your privacy.
 **Avoid Quick Unlock** | Essential | Use a strong password instead of biometrics or short PINs for unlocking your computer to enhance security.
-**Power Off Computer, instead of Standby** | Essential | Shut down your device when not in use, especially if your disk is encrypted, to keep data secure.
 **Don't link your PC with your Microsoft or Apple Account** | Optional | Use a local account only to prevent data syncing and exposure. Avoid using sync services that compromise privacy.
 **Check which Sharing Services are Enabled** | Optional | Disable network sharing features you are not using to close gateways to common threats.
 **Don't use Root/Admin Account for Non-Admin Tasks** | Optional | Use an unprivileged user account for daily tasks and only elevate permissions for administrative changes to mitigate vulnerabilities.
