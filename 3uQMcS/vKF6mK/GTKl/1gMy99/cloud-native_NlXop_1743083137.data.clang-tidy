@@ -21,7 +21,6 @@ Checks: [
   '-bugprone-assignment-in-if-condition',
   '-bugprone-branch-clone',
   '-bugprone-easily-swappable-parameters',
-  '-bugprone-exception-escape',
   '-bugprone-implicit-widening-of-multiplication-result',
   '-bugprone-multi-level-implicit-pointer-conversion',
   '-bugprone-narrowing-conversions',
