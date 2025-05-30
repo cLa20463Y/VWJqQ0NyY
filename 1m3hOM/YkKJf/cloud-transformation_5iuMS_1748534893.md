@@ -76,7 +76,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Overlays not checking for valid S3 buckets
-- Failures when updating deployments created in version 6.1.0 and prior [#559](https://github.com/aws-solutions/serverless-image-handler/issues/559)
 
 ### Security
 
