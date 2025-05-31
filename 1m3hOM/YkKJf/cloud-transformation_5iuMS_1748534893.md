@@ -425,7 +425,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sharp version (from 0.21.3 to 0.23.3)
 - Image handler function to use Composite API (<https://sharp.pixelplumbing.com/en/stable/api-composite/>)
 - License to Apache-2.0
-
 ### Removed
 
 - Reference to deprecated sharp function (overlayWith)
